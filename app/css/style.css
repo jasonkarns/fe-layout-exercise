@@ -1,4 +1,18 @@
-.hello {
-  background-color: #efefef;
-  border: 1px solid #dedede;
+#wrapper {
+  width:100%;
+  display:table;
+}
+#wrapper > * {
+  display: table-cell;
+}
+nav {
+  background: lightblue;
+  width:5em;
+}
+main {
+  background: lightyellow;
+}
+aside {
+  background: lightgreen;
+  width: 6em;
 }
