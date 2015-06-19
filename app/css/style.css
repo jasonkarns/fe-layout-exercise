@@ -1,22 +1,18 @@
 #wrapper {
-  width:100%;
-  display:table;
-}
-
-#wrapper > * {
-  display: table-cell;
+  display:flex;
 }
 
 nav {
   background: lightblue;
-  width:15%;
+  flex-basis: 50%;
 }
 
 main {
   background: lightyellow;
+  flex-basis: 100%;
 }
 
 aside {
   background: lightgreen;
-  width: 20%;
+  flex-basis: 50%;
 }
