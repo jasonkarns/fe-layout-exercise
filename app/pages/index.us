@@ -9,11 +9,11 @@
     <div id=wrapper>
       <nav>
         <ul>
-          <li>Home</li>
-          <li>Blog</li>
-          <li>Contact</li>
-          <li>Videos</li>
-          <li>About Us</li>
+          <li><a href="/">Home</a></li>
+          <li><a href="/blog">Blog</a></li>
+          <li><a href="/contact">Contact</a></li>
+          <li><a href="/videos">Videos</a></li>
+          <li><a href="/about">About Us</a></li>
         </ul>
       </nav>
     </div>
