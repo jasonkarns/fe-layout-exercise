@@ -1,20 +1,11 @@
-nav ul {
-}
-
-nav li {
-  border: 1px solid gray;
-  text-align:center;
-  display: inline-block;
-  width: 19%;
-  vertical-align: top;
-}
-
-nav a {
-  text-decoration: none;
-  display: block;
-  padding: 0.25em;
-}
-
-nav a:hover, nav a:focus {
+nav {
   background: lightblue;
+}
+
+main {
+  background: lightyellow;
+}
+
+aside {
+  background: lightgreen;
 }
