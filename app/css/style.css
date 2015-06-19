@@ -1,5 +1,15 @@
+#wrapper {
+  width:100%;
+  display:table;
+}
+
+#wrapper > * {
+  display: table-cell;
+}
+
 nav {
   background: lightblue;
+  width:15%;
 }
 
 main {
@@ -8,4 +18,5 @@ main {
 
 aside {
   background: lightgreen;
+  width: 20%;
 }
