@@ -6,6 +6,7 @@ nav li {
   text-align:center;
   display: inline-block;
   width: 19%;
+  vertical-align: top;
 }
 
 nav a {
