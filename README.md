@@ -1,5 +1,7 @@
 # My Lineman Application
 
+Try to do the following exercises without touching the HTML
+
 ## inline block
 
 start with inline-block-start branch and try to make the navigation look like:
